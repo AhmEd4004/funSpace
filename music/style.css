@@ -1,0 +1,39 @@
+* {
+	margin:0; padding:0
+}
+
+body {
+	background: linear-gradient(175deg, #8A0808, #8A0808, #8A0808, #8A0808, #8A0808, #8A0808, #8A0808, #8A0808, #DF0101) fixed;
+}
+
+h1 {
+	margin-top:calc(20px + 10vh);
+	text-align:center;
+	color:white;
+	letter-spacing:10px;
+}
+
+#img {
+	background:#0000 url("backImg.jpg") center/cover;
+	width:44%; min-width:500px;
+	margin:40px auto 0;
+	border-radius:20px;
+}
+
+table {
+	width:100%;
+ 	background:#FE2E2E99;
+	backdrop-filter:blur(5px);
+	border-radius:20px;
+	padding:20px;
+}
+
+table tr:first-child td{
+	border-bottom:1px black solid;
+	font-weight:bold;
+}
+
+table tr td{
+	font-size:1.1em;
+	padding:6px 0;
+}
