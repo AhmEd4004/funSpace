@@ -1,0 +1,15 @@
+C:\Users\hmada\Desktop\prapp\prapp\bin\Debug\net6.0\prapp.exe
+C:\Users\hmada\Desktop\prapp\prapp\bin\Debug\net6.0\prapp.deps.json
+C:\Users\hmada\Desktop\prapp\prapp\bin\Debug\net6.0\prapp.runtimeconfig.json
+C:\Users\hmada\Desktop\prapp\prapp\bin\Debug\net6.0\prapp.dll
+C:\Users\hmada\Desktop\prapp\prapp\bin\Debug\net6.0\prapp.pdb
+C:\Users\hmada\Desktop\prapp\prapp\obj\Debug\net6.0\prapp.csproj.AssemblyReference.cache
+C:\Users\hmada\Desktop\prapp\prapp\obj\Debug\net6.0\prapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmada\Desktop\prapp\prapp\obj\Debug\net6.0\prapp.AssemblyInfoInputs.cache
+C:\Users\hmada\Desktop\prapp\prapp\obj\Debug\net6.0\prapp.AssemblyInfo.cs
+C:\Users\hmada\Desktop\prapp\prapp\obj\Debug\net6.0\prapp.csproj.CoreCompileInputs.cache
+C:\Users\hmada\Desktop\prapp\prapp\obj\Debug\net6.0\prapp.dll
+C:\Users\hmada\Desktop\prapp\prapp\obj\Debug\net6.0\refint\prapp.dll
+C:\Users\hmada\Desktop\prapp\prapp\obj\Debug\net6.0\prapp.pdb
+C:\Users\hmada\Desktop\prapp\prapp\obj\Debug\net6.0\prapp.genruntimeconfig.cache
+C:\Users\hmada\Desktop\prapp\prapp\obj\Debug\net6.0\ref\prapp.dll
